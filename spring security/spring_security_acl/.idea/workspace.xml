@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="364d932e-d2d6-4bd8-b8df-4625d2e35151" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.2-bin/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.2-bin\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rgsggRet7UPi6wc5H2PrT4f0Nm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service_acl/src/main/java/com/yDie/aclService/helper" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_workspace\spring_security_acl\service\service_acl\src\main\java\com\yDie\aclService\helper" />
+      <recent name="D:\idea_workspace\spring_security_acl\service\service_acl\src\main\java\com\yDie\aclService\service\impl" />
+      <recent name="D:\idea_workspace\spring_security_acl\service\service_acl\src\main\java\com\yDie\aclService\service" />
+      <recent name="D:\idea_workspace\spring_security_acl\service\service_acl\src\main\java\com\yDie\aclService\entity" />
+      <recent name="D:\idea_workspace\spring_security_acl\service\service_acl\src\main\java\com\yDie\aclService\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceAclApplication">
+    <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yDie.utils.utils.MD5" />
+      <module name="service_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yDie.utils.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yDie.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yDie.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_acl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yDie.aclService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yDie.aclService.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceAclApplication" />
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="Application.MD5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\eshore\AppData\Roaming\Subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="364d932e-d2d6-4bd8-b8df-4625d2e35151" name="Default Changelist" comment="" />
+      <created>1619409179988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619409179988</updated>
+      <workItem from="1619409183054" duration="13507000" />
+      <workItem from="1619484948362" duration="19909000" />
+      <workItem from="1619571166029" duration="7473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="894" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1619493251643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="894" y="87" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1619493251643" />
+    <state x="714" y="151" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619494041144">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="714" y="151" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1619494041144" />
+    <state width="824" height="39" key="GridCell.Tab.0.bottom" timestamp="1619574696051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="824" height="39" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619574696051" />
+    <state width="824" height="39" key="GridCell.Tab.0.center" timestamp="1619574696051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="824" height="39" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619574696051" />
+    <state width="824" height="39" key="GridCell.Tab.0.left" timestamp="1619574696051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="824" height="39" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619574696051" />
+    <state width="824" height="39" key="GridCell.Tab.0.right" timestamp="1619574696051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="824" height="39" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619574696051" />
+    <state width="824" height="39" key="GridCell.Tab.1.bottom" timestamp="1619574696052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="824" height="39" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619574696052" />
+    <state width="824" height="39" key="GridCell.Tab.1.center" timestamp="1619574696051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="824" height="39" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619574696051" />
+    <state width="824" height="39" key="GridCell.Tab.1.left" timestamp="1619574696051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="824" height="39" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619574696051" />
+    <state width="824" height="39" key="GridCell.Tab.1.right" timestamp="1619574696051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="824" height="39" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619574696051" />
+    <state x="506" y="85" width="848" height="594" key="new project wizard" timestamp="1619418688292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="506" y="85" width="848" height="594" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1619418688292" />
+    <state x="616" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1619578831378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="616" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1619578831378" />
+  </component>
+</project>
